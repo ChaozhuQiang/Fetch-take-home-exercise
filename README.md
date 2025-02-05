@@ -1,4 +1,5 @@
 # Instruction about how to run the receipt-processor application
+## This application is developed by Java
 
 ## Prerequisites
 
